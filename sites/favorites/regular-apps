@@ -1,0 +1,1019 @@
+<!DOCTYPE html>
+<html lang="zh-CN" class="io-grey-mode">
+<head> 
+<script>
+    var default_c = "io-grey-mode";
+    var night = document.cookie.replace(/(?:(?:^|.*;\s*)io_night_mode\s*\=\s*([^;]*).*$)|^.*$/, "$1"); 
+    try {
+        if (night === "0" || (!night && window.matchMedia("(prefers-color-scheme: dark)").matches)) {
+            document.documentElement.classList.add("io-black-mode");
+            document.documentElement.classList.remove(default_c);
+        } else {
+            document.documentElement.classList.remove("io-black-mode");
+            document.documentElement.classList.add(default_c);
+        }
+    } catch (_) {}
+</script><meta charset="UTF-8">
+<meta name="renderer" content="webkit"/>
+<meta name="force-rendering" content="webkit"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>常用App | 电报老司机</title>
+<meta name="theme-color" content="#f9f9f9" />
+<meta name="keywords" content="常用App,电报老司机" />
+<meta name="description" content="优质的Telegram电报频道导航，发现最好的电报内容" />
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://tgdriver.com/sites/favorites/regular-apps"/> 
+<meta property="og:title" content="常用App | 电报老司机">
+<meta property="og:description" content="优质的Telegram电报频道导航，发现最好的电报内容">
+<meta property="og:image" content="https://tgdriver.com/wp-content/uploads/2023/05/tg_driver.png">
+<meta property="og:site_name" content="电报老司机">
+<link rel="shortcut icon" href="../../wp-content/uploads/2023/05/Telegram-Logo-PNG-Image.png">
+<link rel="apple-touch-icon" href="../../wp-content/uploads/2023/05/Telegram-Logo-PNG-Image.png">
+<!--[if IE]><script src="https://tgdriver.com/wp-content/themes/onenav/js/html5.min.js"></script><![endif]-->
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='https://at.alicdn.com/' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<link rel='stylesheet' id='iconfont-css' href='../../wp-content/themes/onenav/css/iconfont.css?ver=4.0510' type='text/css' media='all' />
+<link rel='stylesheet' id='iconfont-io-1-css' href='https://at.alicdn.com/t/c/font_4071515_ft6erbw7jgk.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='../../wp-content/themes/onenav/css/bootstrap.min.css?ver=4.0510' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css' href='../../wp-content/themes/onenav/css/style.min.css?ver=4.0510' type='text/css' media='all' />
+<script type="text/javascript" src="../../wp-content/themes/onenav/js/jquery.min.js?ver=4.0510" id="jquery-js"></script>
+<script type="text/javascript" id="jquery-js-after">
+/* <![CDATA[ */
+/* <![CDATA[ */ 
+        function loadFunc(func) {if (document.all){window.attachEvent("onload",func);}else{window.addEventListener("load",func,false);}}   
+        /* ]]]]><![CDATA[> */
+/* ]]> */
+</script>
+<style>.customize-width{max-width:1900px}.sidebar-nav{width:220px}@media (min-width: 768px){.main-content{margin-left:220px;}.main-content .page-header{left:220px;}}</style><style>.panel-body a:not(.no-c){color:#229ed9}.panel-body a:not(.no-c):hover{color:#229ed9}a:hover,.io-grey-mode .sidebar-show,.io-grey-mode .sidebar-item>a:hover,.io-grey-mode .sidebar-item li>a:hover,.home-like:hover,
+        .io-grey-mode .sidebar-popup>div>ul>li>a:hover{color:#229ed9}
+        .header-mini-btn label:hover path{ stroke:#229ed9}
+        .url-card .max .tga a:not(.no-tag):hover,.card-app.card .tga a:not(.no-tag):hover{background:#229ed9}
+        .sidebar .url-card .card:hover{border: 1px solid #229ed9!important;}.tags i{color:#229ed9}.custom-piece_c_b{background:#229ed9!important}.custom-piece_c{color:#229ed9!important}.slider_menu[sliderTab] .anchor,.customize-menu .btn-edit,.badge-danger,.comment-list .rank,.sidebar .card-header:after{background:#229ed9}.badge-outline-primary{color:#229ed9;border:#229ed9 solid 1px}.posts-nav .page-numbers.current,.posts-nav .page-numbers:not(.dots):hover,#comments-navi>a:hover,#comments-navi>.current,.page-nav>a:hover span,.page-nav>.current span{background-color:#229ed9;box-shadow: 0px 5px 20px -3px rgba(34,158,217,.6);}     
+.custom-control-input:not(:disabled):active~.custom-control-label::before{background-color:rgba(34,158,217,.15);border-color:rgba(34,158,217,.15);}
+.custom-control-input:focus~.custom-control-label::before{box-shadow:0 0 0 .2rem rgba(34,158,217,.25)}
+.custom-control-input:focus:not(:checked)~.custom-control-label::before{border-color:#229ed9}
+.custom-control-input:checked~.custom-control-label::before{border-color:#229ed9;background-color:#229ed9}
+.btn-search:hover,.btn-search.current{background-color:#229ed9;box-shadow: 0 5px 20px -3px rgba(34,158,217,.6)}.btn-search.current:after{border-top-color:#229ed9}.panel-body h2,.panel-body h3 {border-color:#229ed9}.custom_btn-outline {color: #229ed9;background-color: transparent;border-color: #229ed9;}
+.custom_btn-outline:hover {color: #229ed9;background-color: #229ed9;border-color: #229ed9;}
+.custom_btn-outline:focus, .custom_btn-outline.focus {color: #229ed9;box-shadow: 0 0 0 0 transparent!important;background-color: transparent;}
+.custom_btn-outline.disabled, .custom_btn-outline:disabled {color: #229ed9;background-color: transparent!important;}
+.custom_btn-outline:not(:disabled):not(.disabled):active, .custom_btn-outline:not(:disabled):not(.disabled).active,.show > .custom_btn-outline.dropdown-toggle {color: #fff;background-color: #229ed9;border-color: #229ed9;}
+.custom_btn-outline:not(:disabled):not(.disabled):active:focus, .custom_btn-outline:not(:disabled):not(.disabled).active:focus,.show > .custom_btn-outline.dropdown-toggle:focus {box-shadow: 0 0 0 0 transparent!important;}
+.custom_btn-d {color: #229ed9;background-color: #229ed9;border-color: #229ed9;}
+.custom_btn-d:hover {color: #229ed9;background-color: #229ed9;border-color: #229ed9;}
+.custom_btn-d:focus,.custom_btn-d.focus {color: #229ed9;background-color: #229ed9;border-color: #229ed9;box-shadow: 0 0 0 0 transparent!important;}
+.custom_btn-d.disabled,.custom_btn-d:disabled {color: #229ed9;background-color:#229ed9;border-color: #229ed9;}
+.custom_btn-d:not(:disabled):not(.disabled):active,.custom_btn-d:not(:disabled):not(.disabled).active{color: #229ed9;background-color: #229ed9;border-color: #229ed9;}
+.custom_btn-d:not(:disabled):not(.disabled):active:focus,.custom_btn-d:not(:disabled):not(.disabled).active:focus{box-shadow: 0 0 0 0 transparent!important;}
+.btn.custom_btn-d {color: #229ed9;background-color: #229ed9;border-color: #229ed9;}
+.btn.custom_btn-d:hover {color: #229ed9;background-color: #229ed9;border-color: #229ed9;}
+.btn.custom_btn-d:focus,.btn.custom_btn-d.focus {color: #229ed9;background-color: #229ed9;border-color: #229ed9;box-shadow: 0 0 0 0 transparent!important;}
+.btn.custom_btn-d.disabled,.btn.custom_btn-d:disabled {color: #229ed9;background-color:#229ed9;border-color: #229ed9;}
+.btn.custom_btn-d:not(:disabled):not(.disabled):active,.btn.custom_btn-d:not(:disabled):not(.disabled).active,.show > .custom_btn-d.dropdown-toggle {color: #229ed9;background-color: #229ed9;border-color: #229ed9;}
+.btn.custom_btn-d:not(:disabled):not(.disabled):active:focus,.btn.custom_btn-d:not(:disabled):not(.disabled).active:focus,.show > .custom_btn-d.dropdown-toggle:focus {box-shadow: 0 0 0 0 transparent!important;}
+.btn-dark:hover{background-color:#229ed9;border-color:#229ed9}
+.sidebar .card .searchform input[type='submit']{border: 1px solid #229ed9;background-color:#229ed9}
+.sidebar .card .searchform input[type='submit']:hover{border: 1px solid #229ed9;background-color:#229ed9}</style><!-- 自定义代码 -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RTW0Y0T4L0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RTW0Y0T4L0');
+</script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7268466546887281"
+     crossorigin="anonymous"></script><!-- end 自定义代码 -->
+</head> 
+<body class="archive tax-favorites term-regular-apps term-84 sidebar_no">
+        <div id="sidebar" class="sticky sidebar-nav fade">
+            <div class="modal-dialog h-100  sidebar-nav-inner">
+                <div class="sidebar-logo border-bottom border-color">
+                    <!-- logo -->
+                    <div class="logo overflow-hidden">
+                                                <a href="https://tgdriver.com/index.html" class="logo-expanded">
+                            <img src="../../wp-content/uploads/2023/05/tg-tinypng.png" height="40" class="logo-light" alt="电报老司机">
+                            <img src="../../wp-content/uploads/2023/05/tg-driver.webp" height="40" class="logo-dark d-none" alt="电报老司机">
+                        </a>
+                        <a href="https://tgdriver.com/index.html" class="logo-collapsed">
+                            <img src="../../wp-content/uploads/2023/05/Telegram.webp" height="40" class="logo-light" alt="电报老司机">
+                            <img src="../../wp-content/uploads/2023/05/Telegram.webp" height="40" class="logo-dark d-none" alt="电报老司机">
+                        </a>
+                    </div>
+                    <!-- logo end -->
+                </div>
+                <div class="sidebar-menu flex-fill">
+                    <div class="sidebar-scroll" >
+                        <div class="sidebar-menu-inner">
+                            <ul> 
+                                                                                                        <li class="sidebar-item">
+                                                                                        <a href="https://tgdriver.com/index.html#term-7" class="" data-change="https://tgdriver.com/#term-7">
+                                                <i class="io io-telegram1 icon-fw icon-lg"></i>
+                                                <span>电报本报</span>
+                                            </a>
+                                            <i class="iconfont icon-arrow-r-m sidebar-more text-sm"></i>
+                                            <ul >
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-7-10" class=""><span>电报新闻</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-7-8" class=""><span>官方频道</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-7-90" class=""><span>电报教学</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-7-114" class=""><span>第三方客户端</span></a>
+                                                </li>
+                                                                                        </ul>
+                                        </li>
+                                                                        <li class="sidebar-item">
+                                                                                        <a href="https://tgdriver.com/index.html#term-48" class="" data-change="https://tgdriver.com/#term-48">
+                                                <i class="io io-xinwen icon-fw icon-lg"></i>
+                                                <span>新闻资讯</span>
+                                            </a>
+                                            <i class="iconfont icon-arrow-r-m sidebar-more text-sm"></i>
+                                            <ul >
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-48-50" class=""><span>简中新闻</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-48-49" class=""><span>国际新闻</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-48-51" class=""><span>港澳台新闻</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-48-91" class=""><span>社交媒体</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-48-95" class=""><span>自媒体</span></a>
+                                                </li>
+                                                                                        </ul>
+                                        </li>
+                                                                        <li class="sidebar-item">
+                                                                                        <a href="https://tgdriver.com/index.html#term-25" class="" data-change="https://tgdriver.com/#term-25">
+                                                <i class="io io-wangluo icon-fw icon-lg"></i>
+                                                <span>网络资源</span>
+                                            </a>
+                                            <i class="iconfont icon-arrow-r-m sidebar-more text-sm"></i>
+                                            <ul >
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-25-77" class=""><span>资源聚合</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-25-26" class=""><span>云盘分享</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-25-88" class=""><span>应用发现</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-25-102" class=""><span>网站发现</span></a>
+                                                </li>
+                                                                                        </ul>
+                                        </li>
+                                                                        <li class="sidebar-item">
+                                                                                        <a href="https://tgdriver.com/index.html#term-85" class="" data-change="https://tgdriver.com/#term-85">
+                                                <i class="io io-paymentlife icon-fw icon-lg"></i>
+                                                <span>科技玩家</span>
+                                            </a>
+                                            <i class="iconfont icon-arrow-r-m sidebar-more text-sm"></i>
+                                            <ul >
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-85-86" class=""><span>科技新闻（中文）</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-85-87" class=""><span>科技新闻（英文）</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-85-89" class=""><span>科技自媒体</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-85-116" class=""><span>AI应用</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-85-103" class=""><span>安全隐私</span></a>
+                                                </li>
+                                                                                        </ul>
+                                        </li>
+                                                                        <li class="sidebar-item">
+                                                                                        <a href="https://tgdriver.com/index.html#term-78" class="" data-change="https://tgdriver.com/#term-78">
+                                                <i class="io io-App icon-fw icon-lg"></i>
+                                                <span>软件App</span>
+                                            </a>
+                                            <i class="iconfont icon-arrow-r-m sidebar-more text-sm"></i>
+                                            <ul >
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-78-84" class=""><span>常用App</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-78-104" class=""><span>常用软件</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-78-105" class=""><span>常用脚本</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-78-79" class=""><span>Windows</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-78-83" class=""><span>Android（中文）</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-78-80" class=""><span>Android（英文）</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-78-81" class=""><span>iOS</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-78-82" class=""><span>Mac</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-78-94" class=""><span>应用限免</span></a>
+                                                </li>
+                                                                                        </ul>
+                                        </li>
+                                                                        <li class="sidebar-item">
+                                                                                        <a href="https://tgdriver.com/index.html#term-60" class="" data-change="https://tgdriver.com/#term-60">
+                                                <i class="io io-yule icon-fw icon-lg"></i>
+                                                <span>影音娱乐</span>
+                                            </a>
+                                            <i class="iconfont icon-arrow-r-m sidebar-more text-sm"></i>
+                                            <ul >
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-60-65" class=""><span>沙雕娱乐</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-60-96" class=""><span>影视</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-60-62" class=""><span>壁纸</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-60-63" class=""><span>音乐</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-60-61" class=""><span>游戏</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-60-98" class=""><span>动漫</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-60-97" class=""><span>Meme</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-60-101" class=""><span>图片</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-60-99" class=""><span>摄影</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-60-100" class=""><span>数字艺术</span></a>
+                                                </li>
+                                                                                        </ul>
+                                        </li>
+                                                                        <li class="sidebar-item">
+                                                                                        <a href="https://tgdriver.com/index.html#term-27" class="" data-change="https://tgdriver.com/#term-27">
+                                                <i class="io io-shuji1 icon-fw icon-lg"></i>
+                                                <span>书籍阅读</span>
+                                            </a>
+                                            <i class="iconfont icon-arrow-r-m sidebar-more text-sm"></i>
+                                            <ul >
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-27-30" class=""><span>中文电子书</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-27-31" class=""><span>英文电子书</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-27-28" class=""><span>报纸杂志</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-27-29" class=""><span>有声书</span></a>
+                                                </li>
+                                                                                        </ul>
+                                        </li>
+                                                                        <li class="sidebar-item">
+                                                                                        <a href="https://tgdriver.com/index.html#term-20" class="" data-change="https://tgdriver.com/#term-20">
+                                                <i class="io io-code icon-fw icon-lg"></i>
+                                                <span>IT技术</span>
+                                            </a>
+                                            <i class="iconfont icon-arrow-r-m sidebar-more text-sm"></i>
+                                            <ul >
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-20-24" class=""><span>Linux</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-20-21" class=""><span>Python</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-20-22" class=""><span>DevOps</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-20-23" class=""><span>数据科学</span></a>
+                                                </li>
+                                                                                        </ul>
+                                        </li>
+                                                                        <li class="sidebar-item">
+                                                                                        <a href="https://tgdriver.com/index.html#term-3" class="" data-change="https://tgdriver.com/#term-3">
+                                                <i class="io io-cloud-server icon-fw icon-lg"></i>
+                                                <span>VPS玩家</span>
+                                            </a>
+                                            <i class="iconfont icon-arrow-r-m sidebar-more text-sm"></i>
+                                            <ul >
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-3-4" class=""><span>活动促销</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-3-6" class=""><span>补货监控</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-3-36" class=""><span>主机论坛</span></a>
+                                                </li>
+                                                                                        </ul>
+                                        </li>
+                                                                        <li class="sidebar-item">
+                                                                                        <a href="https://tgdriver.com/index.html#term-32" class="" data-change="https://tgdriver.com/#term-32">
+                                                <i class="io io-marketing_fill icon-fw icon-lg"></i>
+                                                <span>电报市场</span>
+                                            </a>
+                                            <i class="iconfont icon-arrow-r-m sidebar-more text-sm"></i>
+                                            <ul >
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-32-33" class=""><span>拼车合租</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-32-34" class=""><span>二手交易</span></a>
+                                                </li>
+                                                                                        </ul>
+                                        </li>
+                                                                        <li class="sidebar-item">
+                                                                                        <a href="https://tgdriver.com/index.html#term-37" class="" data-change="https://tgdriver.com/#term-37">
+                                                <i class="io io-icon icon-fw icon-lg"></i>
+                                                <span>生活成长</span>
+                                            </a>
+                                            <i class="iconfont icon-arrow-r-m sidebar-more text-sm"></i>
+                                            <ul >
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-37-92" class=""><span>生活资讯</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-37-117" class=""><span>两性情感</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-37-14" class=""><span>英语学习</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-37-13" class=""><span>润学专区</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-37-45" class=""><span>Quote</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-37-46" class=""><span>Motivation</span></a>
+                                                </li>
+                                                                                        </ul>
+                                        </li>
+                                                                        <li class="sidebar-item">
+                                                                                        <a href="https://tgdriver.com/index.html#term-38" class="" data-change="https://tgdriver.com/#term-38">
+                                                <i class="io io-wenhua icon-fw icon-lg"></i>
+                                                <span>科学文化</span>
+                                            </a>
+                                            <i class="iconfont icon-arrow-r-m sidebar-more text-sm"></i>
+                                            <ul >
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-38-93" class=""><span>奇趣百科</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-38-39" class=""><span>历史</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-38-41" class=""><span>艺术</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-38-40" class=""><span>文学</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-38-43" class=""><span>科学</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-38-42" class=""><span>数学</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-38-44" class=""><span>心理学</span></a>
+                                                </li>
+                                                                                        </ul>
+                                        </li>
+                                                                        <li class="sidebar-item">
+                                                                                        <a href="https://tgdriver.com/index.html#term-52" class="" data-change="https://tgdriver.com/#term-52">
+                                                <i class="io io-licai icon-fw icon-lg"></i>
+                                                <span>个人理财</span>
+                                            </a>
+                                            <i class="iconfont icon-arrow-r-m sidebar-more text-sm"></i>
+                                            <ul >
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-52-55" class=""><span>财经新闻</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-52-53" class=""><span>资金流动</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-52-54" class=""><span>股市投资</span></a>
+                                                </li>
+                                                                                        </ul>
+                                        </li>
+                                                                        <li class="sidebar-item">
+                                                                                        <a href="https://tgdriver.com/index.html#term-56" class="" data-change="https://tgdriver.com/#term-56">
+                                                <i class="io io-icon-safe-bluefuben icon-fw icon-lg"></i>
+                                                <span>加密货币</span>
+                                            </a>
+                                            <i class="iconfont icon-arrow-r-m sidebar-more text-sm"></i>
+                                            <ul >
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-56-57" class=""><span>币圈动态</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-56-58" class=""><span>交易所</span></a>
+                                                </li>
+                                                                                        </ul>
+                                        </li>
+                                                                        <li class="sidebar-item">
+                                                                                        <a href="https://tgdriver.com/index.html#term-115" class="" data-change="https://tgdriver.com/#term-115">
+                                                <i class="io io-TelegramLogo icon-fw icon-lg"></i>
+                                                <span>电报资源</span>
+                                            </a>
+                                            <i class="iconfont icon-arrow-r-m sidebar-more text-sm"></i>
+                                            <ul >
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-115-11" class=""><span>Channel</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-115-12" class=""><span>Bot</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-115-59" class=""><span>Theme</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-115-66" class=""><span>Sticker</span></a>
+                                                </li>
+                                             
+                                                <li>
+                                                    <a href="https://tgdriver.com/index.html#term-115-76" class=""><span>Emoji</span></a>
+                                                </li>
+                                                                                        </ul>
+                                        </li>
+                                 
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="border-top py-2 border-color">
+                    <div class="flex-bottom">
+                        <ul> 
+                            <li id="menu-item-2138" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2138 sidebar-item"><a href="../../channels">
+        <i class="io io-push-outline icon-fw icon-lg"></i>
+                <span>频道收录</span></a></li>
+<li id="menu-item-2134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2134 sidebar-item"><a href="../../links">
+        <i class="io io-link1 icon-fw icon-lg"></i>
+                <span>友情链接</span></a></li>
+ 
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="main-content flex-fill">    <div class="big-header-banner header-nav">
+        <div id="header" class="page-header sticky">
+            <div class="navbar navbar-expand-md">
+                <div class="container-fluid p-0 position-relative">
+                    <div class="position-absolute w-100 text-center">
+                        <a href="https://tgdriver.com/index.html" class="navbar-brand d-md-none m-0" title="电报老司机">
+                            <img src="../../wp-content/uploads/2023/05/tg-tinypng.png" class="logo-light" alt="电报老司机" height="30">
+                            <img src="../../wp-content/uploads/2023/05/tg-driver.webp" class="logo-dark d-none" alt="电报老司机" height="30">
+                        </a>
+                    </div>
+                    <div class="nav-item d-md-none mobile-menu py-2 position-relative"><a href="javascript:" id="sidebar-switch" data-toggle="modal" data-target="#sidebar"><i class="iconfont icon-classification icon-lg"></i></a></div>                    <div class="collapse navbar-collapse order-2 order-md-1">
+                        <div class="header-mini-btn">
+                            <label>
+                                <input id="mini-button" type="checkbox" checked="checked">
+                                <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"> 
+                                    <path class="line--1" d="M0 40h62c18 0 18-20-17 5L31 55"></path>
+                                    <path class="line--2" d="M0 50h80"></path>
+                                    <path class="line--3" d="M0 60h62c18 0 18 20-17-5L31 45"></path>
+                                </svg>
+                            </label>
+                        
+                        </div>
+                                                <!-- 天气 -->
+                        <div class="weather">
+                            <div id="he-plugin-simple" style="display: contents;"></div>
+                            <script>WIDGET = {CONFIG: {"modules": "12034","background": "5","tmpColor": "888","tmpSize": "14","cityColor": "888","citySize": "14","aqiSize": "14","weatherIconSize": "24","alertIconSize": "18","padding": "10px 10px 10px 10px","shadow": "1","language": "auto","fixed": "false","vertical": "middle","horizontal": "left","key": "a922adf8928b4ac1ae7a31ae7375e191"}}</script>
+                            <script>
+                            loadFunc(function() {
+                                let script = document.createElement("script");
+                                script.setAttribute("async", "");
+                                script.src = "//widget.qweather.net/simple/static/js/he-simple-common.js?v=2.0";
+                                document.body.appendChild(script);
+                            });
+                            </script>
+                        </div>
+                        <!-- 天气 end -->
+                                                <ul class="navbar-nav navbar-top site-menu mr-4">
+                             
+                        </ul>
+                    </div>
+                    <ul class="nav navbar-menu text-xs order-1 order-md-2 position-relative">
+                                                                            <li class="nav-login ml-3 ml-md-4">
+                                <a href="https://tgdriver.com/wp-login.php?redirect_to=https:%2F%2Ftgdriver.com%2Fsites%2Ffavorites%2Fregular-apps" title="登录"><i class="iconfont icon-user icon-lg"></i></a>
+                            </li>
+                                                                        <li class="nav-search ml-3 ml-md-4">
+                            <a href="javascript:" data-toggle="modal" data-target="#search-modal"><i class="iconfont icon-search icon-lg"></i></a>
+                        </li>
+                                                                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="placeholder"></div>
+            </div>
+<div class="header-big  bg-gradual css-img mb-4" style="background-image: url(../../wp-content/uploads/2023/05/spectrum-gradient-1.webp)"> 
+<div class="s-search">
+<div id="search" class="s-search mx-auto">
+        <div class="big-title text-center mb-3 mb-md-5 mt-2">
+        <h2 class="h1" style="letter-spacing: 6px;">来不及等待了</h2>
+    </div>
+        <div id="search-list-menu" class="">
+        <div class="s-type text-center">
+            <div class="s-type-list big tab-auto-scrollbar overflow-x-auto">
+                <div class="anchor" style="position: absolute; left: 50%; opacity: 0;"></div>
+                <label for="type-big-zhannei" class="active" data-page="home" data-id="group-z"><span>站内</span></label><label for="type-meow"  data-page="home" data-id="group-c"><span>电报</span></label><label for="type-google1"  data-page="home" data-id="group-b"><span>搜索</span></label>            </div>
+        </div>
+    </div>
+    <form action="https://tgdriver.com?s=" method="get" target="_blank" class="super-search-fm">
+        <input type="text" id="search-text" class="form-control smart-tips search-key" zhannei="" placeholder="输入关键字搜索" style="outline:0" autocomplete="off" data-status="true">
+        <button type="submit" id="btn_search"><i class="iconfont icon-search"></i></button>
+    </form> 
+    <div id="search-list" class="hide-type-list">
+                    <div class="search-group justify-content-center group-z s-current">
+                <ul class="search-type tab-auto-scrollbar overflow-x-auto">
+                    <li ><input checked="checked" hidden="" type="radio" name="type" data-page="home" id="type-big-zhannei" value="https://tgdriver.com/?post_type=sites&amp;s=" data-placeholder="站内搜索"></li>
+                                    </ul>
+            </div>
+                    <div class="search-group justify-content-center group-c "><ul class="search-type tab-auto-scrollbar overflow-x-auto"><li><input hidden type="radio" name="type" data-page="home" id="type-meow" value="https://meow.tg/search/%s%" data-placeholder="做最懂你的TG搜索"><label for="type-meow"><span class="text-muted">Meow</span></label></li><li><input hidden type="radio" name="type" data-page="home" id="type-mingdao" value="https://xtea.io/ts#gsc.tab=0&amp;gsc.q=%s%&amp;gsc.sort=" data-placeholder="名刀电报搜索"><label for="type-mingdao"><span class="text-muted">名刀</span></label></li><li><input hidden type="radio" name="type" data-page="home" id="type-lyzem" value="https://lyzem.com/search?q=%s%" data-placeholder="IndexPost"><label for="type-lyzem"><span class="text-muted">Lyzem</span></label></li><li><input hidden type="radio" name="type" data-page="home" id="type-telegago" value="https://cse.google.com/cse?&amp;cx=006368593537057042503:efxu7xprihg#gsc.tab=0&amp;gsc.q=%s%&amp;gsc.sort=date" data-placeholder="Programmable Search Engine"><label for="type-telegago"><span class="text-muted">Telegago</span></label></li><li><input hidden type="radio" name="type" data-page="home" id="type-404" value="https://telsearch.long2ice.io/search?k=%s%&amp;t=all" data-placeholder=" Search Telegram"><label for="type-404"><span class="text-muted">TelSearch</span></label></li></ul></div><div class="search-group justify-content-center group-b "><ul class="search-type tab-auto-scrollbar overflow-x-auto"><li><input hidden type="radio" name="type" data-page="home" id="type-google1" value="https://www.google.com/search?q=%s%" data-placeholder="谷歌两下"><label for="type-google1"><span class="text-muted">Google</span></label></li><li><input hidden type="radio" name="type" data-page="home" id="type-bing1" value="https://cn.bing.com/search?q=%s%" data-placeholder="微软Bing搜索"><label for="type-bing1"><span class="text-muted">Bing</span></label></li><li><input hidden type="radio" name="type" data-page="home" id="type-baidu1" value="https://www.baidu.com/s?wd=%s%" data-placeholder="百度一下"><label for="type-baidu1"><span class="text-muted">百度</span></label></li></ul></div>    </div>
+    <div class="card search-smart-tips" style="display: none">
+        <ul></ul>
+    </div>
+</div>
+</div>
+</div>      <div id="content" class="container container-lg">
+        <div class="content-wrap">
+            <div class="content-layout">
+                <h4 class="text-gray text-lg mb-4">
+                    <i class="site-tag iconfont icon-tag icon-lg mr-1" id="常用App"></i>常用App                </h4>
+                <div class="row">  
+                                                <div class="url-card  col-sm-6 col-md-4 col-xl-3 ">
+                            
+        <div class="url-body default ">    
+            <a href="../1116.html" target="_blank"  data-id="1116" data-url="https://t.me/rvx_lite" class="card no-c  mb-4 site-1116" data-toggle="tooltip" data-placement="bottom"  title="https://t.me/rvx_lite">
+                <div class="card-body url-content d-flex align-items-center"> 
+                                        <div class="url-img rounded-circle mr-2 d-flex align-items-center justify-content-center">
+                        <img class=" lazy unfancybox" src="../../wp-content/themes/onenav/images/favicon.png" data-src="https://tgdriver.com/wp-content/uploads/2023/05/photo_2023-03-17_21-43-34.webp"  height="auto" width="auto"  alt="RVX Lite"> 
+                    </div>
+                                        <div class="url-info flex-fill">
+                        <div class="text-sm overflowClip_1">
+                        <strong>RVX Lite</strong>
+                        </div>
+                        <p class="overflowClip_1 m-0 text-muted text-xs">All the credits goes to the...</p>
+                    </div>
+                </div> 
+            </a> 
+                        <a href="https://t.me/rvx_lite" target="_blank" rel="external nofollow noopener" title="直达" class="togo text-center text-muted is-views" data-id="1116" data-toggle="tooltip" data-placement="right"><i class="iconfont icon-goto"></i></a>
+                    </div>
+                            </div>
+                                                    <div class="url-card  col-sm-6 col-md-4 col-xl-3 ">
+                            
+        <div class="url-body default ">    
+            <a href="../1115.html" target="_blank"  data-id="1115" data-url="https://t.me/app_revanced" class="card no-c  mb-4 site-1115" data-toggle="tooltip" data-placement="bottom"  title="https://t.me/app_revanced">
+                <div class="card-body url-content d-flex align-items-center"> 
+                                        <div class="url-img rounded-circle mr-2 d-flex align-items-center justify-content-center">
+                        <img class=" lazy unfancybox" src="../../wp-content/themes/onenav/images/favicon.png" data-src="https://tgdriver.com/wp-content/uploads/2023/05/photo_2022-06-20_08-39-52.webp"  height="auto" width="auto"  alt="ReVanced"> 
+                    </div>
+                                        <div class="url-info flex-fill">
+                        <div class="text-sm overflowClip_1">
+                        <strong>ReVanced</strong>
+                        </div>
+                        <p class="overflowClip_1 m-0 text-muted text-xs">Continuing the legacy of Va...</p>
+                    </div>
+                </div> 
+            </a> 
+                        <a href="https://t.me/app_revanced" target="_blank" rel="external nofollow noopener" title="直达" class="togo text-center text-muted is-views" data-id="1115" data-toggle="tooltip" data-placement="right"><i class="iconfont icon-goto"></i></a>
+                    </div>
+                            </div>
+                                                    <div class="url-card  col-sm-6 col-md-4 col-xl-3 ">
+                            
+        <div class="url-body default ">    
+            <a href="../1114.html" target="_blank"  data-id="1114" data-url="https://t.me/vanced_mod_archive" class="card no-c  mb-4 site-1114" data-toggle="tooltip" data-placement="bottom"  title="https://t.me/vanced_mod_archive">
+                <div class="card-body url-content d-flex align-items-center"> 
+                                        <div class="url-img rounded-circle mr-2 d-flex align-items-center justify-content-center">
+                        <img class=" lazy unfancybox" src="../../wp-content/themes/onenav/images/favicon.png" data-src="https://tgdriver.com/wp-content/uploads/2023/05/photo_2022-07-10_03-23-51.webp"  height="auto" width="auto"  alt="Vanced Extended"> 
+                    </div>
+                                        <div class="url-info flex-fill">
+                        <div class="text-sm overflowClip_1">
+                        <strong>Vanced Extended</strong>
+                        </div>
+                        <p class="overflowClip_1 m-0 text-muted text-xs">Official YouTube Vanced tea...</p>
+                    </div>
+                </div> 
+            </a> 
+                        <a href="https://t.me/vanced_mod_archive" target="_blank" rel="external nofollow noopener" title="直达" class="togo text-center text-muted is-views" data-id="1114" data-toggle="tooltip" data-placement="right"><i class="iconfont icon-goto"></i></a>
+                    </div>
+                            </div>
+                                                    <div class="url-card  col-sm-6 col-md-4 col-xl-3 ">
+                            
+        <div class="url-body default ">    
+            <a href="../1599.html" target="_blank"  data-id="1599" data-url="https://t.me/PureTuber" class="card no-c  mb-4 site-1599" data-toggle="tooltip" data-placement="bottom"  title="https://t.me/PureTuber">
+                <div class="card-body url-content d-flex align-items-center"> 
+                                        <div class="url-img rounded-circle mr-2 d-flex align-items-center justify-content-center">
+                        <img class=" lazy unfancybox" src="../../wp-content/themes/onenav/images/favicon.png" data-src="https://tgdriver.com/wp-content/uploads/2023/05/photo_2021-05-21_22-10-47.webp"  height="auto" width="auto"  alt="YouTube Vanced Pure Tuber Revanced"> 
+                    </div>
+                                        <div class="url-info flex-fill">
+                        <div class="text-sm overflowClip_1">
+                        <strong>YouTube Vanced Pure Tuber Revanced</strong>
+                        </div>
+                        <p class="overflowClip_1 m-0 text-muted text-xs">✨ The best YouTube mod appl...</p>
+                    </div>
+                </div> 
+            </a> 
+                        <a href="https://t.me/PureTuber" target="_blank" rel="external nofollow noopener" title="直达" class="togo text-center text-muted is-views" data-id="1599" data-toggle="tooltip" data-placement="right"><i class="iconfont icon-goto"></i></a>
+                    </div>
+                            </div>
+                                                    <div class="url-card  col-sm-6 col-md-4 col-xl-3 ">
+                            
+        <div class="url-body default ">    
+            <a href="../1119.html" target="_blank"  data-id="1119" data-url="https://t.me/xManagerUpdates" class="card no-c  mb-4 site-1119" data-toggle="tooltip" data-placement="bottom"  title="https://t.me/xManagerUpdates">
+                <div class="card-body url-content d-flex align-items-center"> 
+                                        <div class="url-img rounded-circle mr-2 d-flex align-items-center justify-content-center">
+                        <img class=" lazy unfancybox" src="../../wp-content/themes/onenav/images/favicon.png" data-src="https://tgdriver.com/wp-content/uploads/2023/05/xManager.webp"  height="auto" width="auto"  alt="xManager &#8211; Updates"> 
+                    </div>
+                                        <div class="url-info flex-fill">
+                        <div class="text-sm overflowClip_1">
+                        <strong>xManager &#8211; Updates</strong>
+                        </div>
+                        <p class="overflowClip_1 m-0 text-muted text-xs">Official Channel for xManag...</p>
+                    </div>
+                </div> 
+            </a> 
+                        <a href="https://t.me/xManagerUpdates" target="_blank" rel="external nofollow noopener" title="直达" class="togo text-center text-muted is-views" data-id="1119" data-toggle="tooltip" data-placement="right"><i class="iconfont icon-goto"></i></a>
+                    </div>
+                            </div>
+                                                    <div class="url-card  col-sm-6 col-md-4 col-xl-3 ">
+                            
+        <div class="url-body default ">    
+            <a href="../1118.html" target="_blank"  data-id="1118" data-url="https://t.me/spotifypremiumcrackapk" class="card no-c  mb-4 site-1118" data-toggle="tooltip" data-placement="bottom"  title="https://t.me/spotifypremiumcrackapk">
+                <div class="card-body url-content d-flex align-items-center"> 
+                                        <div class="url-img rounded-circle mr-2 d-flex align-items-center justify-content-center">
+                        <img class=" lazy unfancybox" src="../../wp-content/themes/onenav/images/favicon.png" data-src="https://tgdriver.com/wp-content/uploads/2023/05/photo_2019-05-15_16-23-30.webp"  height="auto" width="auto"  alt="Spotify Premium Free APK"> 
+                    </div>
+                                        <div class="url-info flex-fill">
+                        <div class="text-sm overflowClip_1">
+                        <strong>Spotify Premium Free APK</strong>
+                        </div>
+                        <p class="overflowClip_1 m-0 text-muted text-xs">If you have any problem abo...</p>
+                    </div>
+                </div> 
+            </a> 
+                        <a href="https://t.me/spotifypremiumcrackapk" target="_blank" rel="external nofollow noopener" title="直达" class="togo text-center text-muted is-views" data-id="1118" data-toggle="tooltip" data-placement="right"><i class="iconfont icon-goto"></i></a>
+                    </div>
+                            </div>
+                                                    <div class="url-card  col-sm-6 col-md-4 col-xl-3 ">
+                            
+        <div class="url-body default ">    
+            <a href="../1117.html" target="_blank"  data-id="1117" data-url="https://t.me/Spotify_Crack" class="card no-c  mb-4 site-1117" data-toggle="tooltip" data-placement="bottom"  title="https://t.me/Spotify_Crack">
+                <div class="card-body url-content d-flex align-items-center"> 
+                                        <div class="url-img rounded-circle mr-2 d-flex align-items-center justify-content-center">
+                        <img class=" lazy unfancybox" src="../../wp-content/themes/onenav/images/favicon.png" data-src="https://tgdriver.com/wp-content/uploads/2023/05/photo_2023-01-07_00-12-21.webp"  height="auto" width="auto"  alt="Spotify Craccato"> 
+                    </div>
+                                        <div class="url-info flex-fill">
+                        <div class="text-sm overflowClip_1">
+                        <strong>Spotify Craccato</strong>
+                        </div>
+                        <p class="overflowClip_1 m-0 text-muted text-xs">🟢 Riserva: https://t.me/+M8...</p>
+                    </div>
+                </div> 
+            </a> 
+                        <a href="https://t.me/Spotify_Crack" target="_blank" rel="external nofollow noopener" title="直达" class="togo text-center text-muted is-views" data-id="1117" data-toggle="tooltip" data-placement="right"><i class="iconfont icon-goto"></i></a>
+                    </div>
+                            </div>
+                                                    <div class="url-card  col-sm-6 col-md-4 col-xl-3 ">
+                            
+        <div class="url-body default ">    
+            <a href="../1122.html" target="_blank"  data-id="1122" data-url="https://t.me/instander" class="card no-c  mb-4 site-1122" data-toggle="tooltip" data-placement="bottom"  title="https://t.me/instander">
+                <div class="card-body url-content d-flex align-items-center"> 
+                                        <div class="url-img rounded-circle mr-2 d-flex align-items-center justify-content-center">
+                        <img class=" lazy unfancybox" src="../../wp-content/themes/onenav/images/favicon.png" data-src="https://tgdriver.com/wp-content/uploads/2023/05/photo_2023-01-11_04-12-13.webp"  height="auto" width="auto"  alt="Instander"> 
+                    </div>
+                                        <div class="url-info flex-fill">
+                        <div class="text-sm overflowClip_1">
+                        <strong>Instander</strong>
+                        </div>
+                        <p class="overflowClip_1 m-0 text-muted text-xs">Beautiful &amp;amp; Powerful In...</p>
+                    </div>
+                </div> 
+            </a> 
+                        <a href="https://t.me/instander" target="_blank" rel="external nofollow noopener" title="直达" class="togo text-center text-muted is-views" data-id="1122" data-toggle="tooltip" data-placement="right"><i class="iconfont icon-goto"></i></a>
+                    </div>
+                            </div>
+                                                    <div class="url-card  col-sm-6 col-md-4 col-xl-3 ">
+                            
+        <div class="url-body default ">    
+            <a href="../2016.html" target="_blank"  data-id="2016" data-url="https://t.me/TikTokModCloud" class="card no-c  mb-4 site-2016" data-toggle="tooltip" data-placement="bottom"  title="https://t.me/TikTokModCloud">
+                <div class="card-body url-content d-flex align-items-center"> 
+                                        <div class="url-img rounded-circle mr-2 d-flex align-items-center justify-content-center">
+                        <img class=" lazy unfancybox" src="../../wp-content/themes/onenav/images/favicon.png" data-src="https://tgdriver.com/wp-content/uploads/2023/05/photo_2023-03-16_01-20-34.webp"  height="auto" width="auto"  alt="TikTokModCloud"> 
+                    </div>
+                                        <div class="url-info flex-fill">
+                        <div class="text-sm overflowClip_1">
+                        <strong>TikTokModCloud</strong>
+                        </div>
+                        <p class="overflowClip_1 m-0 text-muted text-xs">🇷🇺Русский чат @TikTokModRus...</p>
+                    </div>
+                </div> 
+            </a> 
+                        <a href="https://t.me/TikTokModCloud" target="_blank" rel="external nofollow noopener" title="直达" class="togo text-center text-muted is-views" data-id="2016" data-toggle="tooltip" data-placement="right"><i class="iconfont icon-goto"></i></a>
+                    </div>
+                            </div>
+                                                    <div class="url-card  col-sm-6 col-md-4 col-xl-3 ">
+                            
+        <div class="url-body default ">    
+            <a href="../2015.html" target="_blank"  data-id="2015" data-url="https://t.me/tiktokclouddownload" class="card no-c  mb-4 site-2015" data-toggle="tooltip" data-placement="bottom"  title="https://t.me/tiktokclouddownload">
+                <div class="card-body url-content d-flex align-items-center"> 
+                                        <div class="url-img rounded-circle mr-2 d-flex align-items-center justify-content-center">
+                        <img class=" lazy unfancybox" src="../../wp-content/themes/onenav/images/favicon.png" data-src="https://tgdriver.com/wp-content/uploads/2023/05/photo_2022-04-05_15-16-36.webp"  height="auto" width="auto"  alt="TikTok Mod Download"> 
+                    </div>
+                                        <div class="url-info flex-fill">
+                        <div class="text-sm overflowClip_1">
+                        <strong>TikTok Mod Download</strong>
+                        </div>
+                        <p class="overflowClip_1 m-0 text-muted text-xs">This is the Download Channe...</p>
+                    </div>
+                </div> 
+            </a> 
+                        <a href="https://t.me/tiktokclouddownload" target="_blank" rel="external nofollow noopener" title="直达" class="togo text-center text-muted is-views" data-id="2015" data-toggle="tooltip" data-placement="right"><i class="iconfont icon-goto"></i></a>
+                    </div>
+                            </div>
+                                                    <div class="url-card  col-sm-6 col-md-4 col-xl-3 ">
+                            
+        <div class="url-body default ">    
+            <a href="../2014.html" target="_blank"  data-id="2014" data-url="https://t.me/gcamapknew" class="card no-c  mb-4 site-2014" data-toggle="tooltip" data-placement="bottom"  title="https://t.me/gcamapknew">
+                <div class="card-body url-content d-flex align-items-center"> 
+                                        <div class="url-img rounded-circle mr-2 d-flex align-items-center justify-content-center">
+                        <img class=" lazy unfancybox" src="../../wp-content/themes/onenav/images/favicon.png" data-src="https://tgdriver.com/wp-content/uploads/2023/05/photo_2023-02-13_16-46-14.webp"  height="auto" width="auto"  alt="Latest GCam APK"> 
+                    </div>
+                                        <div class="url-info flex-fill">
+                        <div class="text-sm overflowClip_1">
+                        <strong>Latest GCam APK</strong>
+                        </div>
+                        <p class="overflowClip_1 m-0 text-muted text-xs">Download Latest GCam APK Po...</p>
+                    </div>
+                </div> 
+            </a> 
+                        <a href="https://t.me/gcamapknew" target="_blank" rel="external nofollow noopener" title="直达" class="togo text-center text-muted is-views" data-id="2014" data-toggle="tooltip" data-placement="right"><i class="iconfont icon-goto"></i></a>
+                    </div>
+                            </div>
+                                                    <div class="url-card  col-sm-6 col-md-4 col-xl-3 ">
+                            
+        <div class="url-body default ">    
+            <a href="../1113.html" target="_blank"  data-id="1113" data-url="https://t.me/aerolla" class="card no-c  mb-4 site-1113" data-toggle="tooltip" data-placement="bottom"  title="https://t.me/aerolla">
+                <div class="card-body url-content d-flex align-items-center"> 
+                                        <div class="url-img rounded-circle mr-2 d-flex align-items-center justify-content-center">
+                        <img class=" lazy unfancybox" src="../../wp-content/themes/onenav/images/favicon.png" data-src="https://tgdriver.com/wp-content/uploads/2023/05/photo_2023-01-20_00-15-15.webp"  height="auto" width="auto"  alt="Aero Apps | Channel"> 
+                    </div>
+                                        <div class="url-info flex-fill">
+                        <div class="text-sm overflowClip_1">
+                        <strong>Aero Apps | Channel</strong>
+                        </div>
+                        <p class="overflowClip_1 m-0 text-muted text-xs">Aero Apps Official Telegram...</p>
+                    </div>
+                </div> 
+            </a> 
+                        <a href="https://t.me/aerolla" target="_blank" rel="external nofollow noopener" title="直达" class="togo text-center text-muted is-views" data-id="1113" data-toggle="tooltip" data-placement="right"><i class="iconfont icon-goto"></i></a>
+                    </div>
+                            </div>
+                                                    <div class="url-card  col-sm-6 col-md-4 col-xl-3 ">
+                            
+        <div class="url-body default ">    
+            <a href="../1110.html" target="_blank"  data-id="1110" data-url="https://t.me/SamMods" class="card no-c  mb-4 site-1110" data-toggle="tooltip" data-placement="bottom"  title="https://t.me/SamMods">
+                <div class="card-body url-content d-flex align-items-center"> 
+                                        <div class="url-img rounded-circle mr-2 d-flex align-items-center justify-content-center">
+                        <img class=" lazy unfancybox" src="../../wp-content/themes/onenav/images/favicon.png" data-src="https://tgdriver.com/wp-content/uploads/2023/05/photo_2022-02-24_22-51-58.webp"  height="auto" width="auto"  alt="Sam Mods / Tech Dark Web"> 
+                    </div>
+                                        <div class="url-info flex-fill">
+                        <div class="text-sm overflowClip_1">
+                        <strong>Sam Mods / Tech Dark Web</strong>
+                        </div>
+                        <p class="overflowClip_1 m-0 text-muted text-xs">Ⓜ️ Sam Mods Official Telegr...</p>
+                    </div>
+                </div> 
+            </a> 
+                        <a href="https://t.me/SamMods" target="_blank" rel="external nofollow noopener" title="直达" class="togo text-center text-muted is-views" data-id="1110" data-toggle="tooltip" data-placement="right"><i class="iconfont icon-goto"></i></a>
+                    </div>
+                            </div>
+                                                    <div class="url-card  col-sm-6 col-md-4 col-xl-3 ">
+                            
+        <div class="url-body default ">    
+            <a href="../2017.html" target="_blank"  data-id="2017" data-url="https://t.me/LSPosed" class="card no-c  mb-4 site-2017" data-toggle="tooltip" data-placement="bottom"  title="https://t.me/LSPosed">
+                <div class="card-body url-content d-flex align-items-center"> 
+                                        <div class="url-img rounded-circle mr-2 d-flex align-items-center justify-content-center">
+                        <img class=" lazy unfancybox" src="../../wp-content/themes/onenav/images/favicon.png" data-src="https://tgdriver.com/wp-content/uploads/2023/05/photo_2022-11-14_16-30-31.webp"  height="auto" width="auto"  alt="LSPosed"> 
+                    </div>
+                                        <div class="url-info flex-fill">
+                        <div class="text-sm overflowClip_1">
+                        <strong>LSPosed</strong>
+                        </div>
+                        <p class="overflowClip_1 m-0 text-muted text-xs">Official webpage: lsposed.o...</p>
+                    </div>
+                </div> 
+            </a> 
+                        <a href="https://t.me/LSPosed" target="_blank" rel="external nofollow noopener" title="直达" class="togo text-center text-muted is-views" data-id="2017" data-toggle="tooltip" data-placement="right"><i class="iconfont icon-goto"></i></a>
+                    </div>
+                            </div>
+                                                    <div class="url-card  col-sm-6 col-md-4 col-xl-3 ">
+                            
+        <div class="url-body default ">    
+            <a href="../2018.html" target="_blank"  data-id="2018" data-url="https://t.me/LSPatchArchives" class="card no-c  mb-4 site-2018" data-toggle="tooltip" data-placement="bottom"  title="https://t.me/LSPatchArchives">
+                <div class="card-body url-content d-flex align-items-center"> 
+                                        <div class="url-img rounded-circle mr-2 d-flex align-items-center justify-content-center">
+                        <img class=" lazy unfancybox" src="../../wp-content/themes/onenav/images/favicon.png" data-src="https://tgdriver.com/wp-content/uploads/2023/05/photo_2022-05-07_08-49-16.webp"  height="auto" width="auto"  alt="LSPatchArchives"> 
+                    </div>
+                                        <div class="url-info flex-fill">
+                        <div class="text-sm overflowClip_1">
+                        <strong>LSPatchArchives</strong>
+                        </div>
+                        <p class="overflowClip_1 m-0 text-muted text-xs">CI builds for LSPatch See h...</p>
+                    </div>
+                </div> 
+            </a> 
+                        <a href="https://t.me/LSPatchArchives" target="_blank" rel="external nofollow noopener" title="直达" class="togo text-center text-muted is-views" data-id="2018" data-toggle="tooltip" data-placement="right"><i class="iconfont icon-goto"></i></a>
+                    </div>
+                            </div>
+                                        </div>  
+                <div class="posts-nav mb-4">
+                                    </div>
+            </div> 
+        </div>
+            </div>
+ 
+<div class="main-footer footer-stick p-4 footer-type-def">
+
+    <div class="footer-inner ">
+        <div class="footer-text ">
+                        <div class="footer-copyright text-xs">
+            Copyright © 2023 <a href="https://tgdriver.com/index.html" title="电报老司机" class="" rel="home">电报老司机</a>&nbsp;            </div>
+        </div>
+    </div>
+</div>
+</div><!-- main-content end -->
+
+<footer>
+    <div id="footer-tools" class="d-flex flex-column">
+        <a href="javascript:" id="go-to-up" class="btn rounded-circle go-up m-1" rel="go-top">
+            <i class="iconfont icon-to-up"></i>
+        </a>
+                                                <a href="javascript:" id="switch-mode" class="btn rounded-circle switch-dark-mode m-1" data-toggle="tooltip" data-placement="left" title="夜间模式">
+            <i class="mode-ico iconfont icon-light"></i>
+        </a>
+            </div>
+</footer>
+  
+<div class="modal fade search-modal" id="search-modal">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content">  
+            <div class="modal-body">
+                 
+<div id="search" class="s-search mx-auto my-4">
+    <div id="search-list" class="hide-type-list">
+        <div class="s-type">
+            <span></span>
+            <div class="s-type-list">
+                <label for="m_type-meow" data-page="home" data-id="group-c">电报</label><label for="m_type-google1" data-page="home" data-id="group-b">搜索</label>            </div>
+        </div>
+        <div class="search-group group-c"><span class="type-text text-muted">电报</span><ul class="search-type"><li><input checked="checked" hidden type="radio" name="type2" data-page="home" id="m_type-meow" value="https://meow.tg/search/%s%" data-placeholder="做最懂你的TG搜索"><label for="m_type-meow"><span class="text-muted">Meow</span></label></li><li><input hidden type="radio" name="type2" data-page="home" id="m_type-mingdao" value="https://xtea.io/ts#gsc.tab=0&amp;gsc.q=%s%&amp;gsc.sort=" data-placeholder="名刀电报搜索"><label for="m_type-mingdao"><span class="text-muted">名刀</span></label></li><li><input hidden type="radio" name="type2" data-page="home" id="m_type-lyzem" value="https://lyzem.com/search?q=%s%" data-placeholder="IndexPost"><label for="m_type-lyzem"><span class="text-muted">Lyzem</span></label></li><li><input hidden type="radio" name="type2" data-page="home" id="m_type-telegago" value="https://cse.google.com/cse?&amp;cx=006368593537057042503:efxu7xprihg#gsc.tab=0&amp;gsc.q=%s%&amp;gsc.sort=date" data-placeholder="Programmable Search Engine"><label for="m_type-telegago"><span class="text-muted">Telegago</span></label></li><li><input hidden type="radio" name="type2" data-page="home" id="m_type-404" value="https://telsearch.long2ice.io/search?k=%s%&amp;t=all" data-placeholder=" Search Telegram"><label for="m_type-404"><span class="text-muted">TelSearch</span></label></li></ul></div><div class="search-group group-b"><span class="type-text text-muted">搜索</span><ul class="search-type"><li><input hidden type="radio" name="type2" data-page="home" id="m_type-google1" value="https://www.google.com/search?q=%s%" data-placeholder="谷歌两下"><label for="m_type-google1"><span class="text-muted">Google</span></label></li><li><input hidden type="radio" name="type2" data-page="home" id="m_type-bing1" value="https://cn.bing.com/search?q=%s%" data-placeholder="微软Bing搜索"><label for="m_type-bing1"><span class="text-muted">Bing</span></label></li><li><input hidden type="radio" name="type2" data-page="home" id="m_type-baidu1" value="https://www.baidu.com/s?wd=%s%" data-placeholder="百度一下"><label for="m_type-baidu1"><span class="text-muted">百度</span></label></li></ul></div>    </div>
+    <form action="https://tgdriver.com?s=" method="get" target="_blank" class="super-search-fm">
+        <input type="text" id="m_search-text" class="form-control smart-tips search-key" zhannei="" autocomplete="off" placeholder="输入关键字搜索" style="outline:0" data-status="true">
+        <button type="submit" id="btn_search"><i class="iconfont icon-search"></i></button>
+    </form> 
+    <div class="card search-smart-tips" style="display: none">
+        <ul></ul>
+    </div>
+</div>
+  
+                <div class="px-1 mb-3"><i class="text-xl iconfont icon-hot mr-1" style="color:#f1404b;"></i><span class="h6">热门推荐： </span></div>
+                <div class="mb-3">
+                                    </div>
+            </div>  
+            <div style="position: absolute;bottom: -40px;width: 100%;text-align: center;"><a href="javascript:" data-dismiss="modal"><i class="iconfont icon-close-circle icon-2x" style="color: #fff;"></i></a></div>
+        </div>
+    </div>  
+</div>
+<script type="text/javascript" src="../../wp-content/themes/onenav/js/popper.min.js?ver=4.0510" id="popper-js"></script>
+<script type="text/javascript" src="../../wp-content/themes/onenav/js/bootstrap.min.js?ver=4.0510" id="bootstrap-js"></script>
+<script type="text/javascript" src="../../wp-content/themes/onenav/js/theia-sticky-sidebar.js?ver=4.0510" id="sidebar-js"></script>
+<script type="text/javascript" src="../../wp-content/themes/onenav/js/lazyload.min.js?ver=4.0510" id="lazyload-js"></script>
+<script type="text/javascript" id="appjs-js-extra">
+/* <![CDATA[ */
+var theme = {"ajaxurl":"https:\/\/tgdriver.com\/wp-admin\/admin-ajax.php","uri":"https:\/\/tgdriver.com\/wp-content\/themes\/onenav","loginurl":"https:\/\/tgdriver.com\/wp-login.php?redirect_to=https%3A%2F%2Ftgdriver.com%2Fsites%2Ffavorites%2Fregular-apps","sitesName":"\u7535\u62a5\u8001\u53f8\u673a","addico":"https:\/\/tgdriver.com\/wp-content\/themes\/onenav\/images\/add.png","order":"asc","formpostion":"top","defaultclass":"io-grey-mode","isCustomize":"0","icourl":"https:\/\/api.iowen.cn\/favicon\/","icopng":".png","urlformat":"1","customizemax":"10","newWindow":"1","lazyload":"1","minNav":"0","loading":"","hotWords":"google","classColumns":" col-2a col-sm-2a col-md-2a col-lg-3a col-xl-5a col-xxl-6a ","apikey":"TWpBeU1USTJNemd4TWpZM0d6RS9oTmxObFZXUm9NelZhT1d4c1pHNUNTVmgyVkVkelF6VkpObUpJUVVscA==","isHome":"","version":"4.0510"};
+var localize = {"liked":"\u60a8\u5df2\u7ecf\u8d5e\u8fc7\u4e86!","like":"\u8c22\u8c22\u70b9\u8d5e!","networkerror":"\u7f51\u7edc\u9519\u8bef --.","selectCategory":"\u4e3a\u4ec0\u4e48\u4e0d\u9009\u5206\u7c7b\u3002","addSuccess":"\u6dfb\u52a0\u6210\u529f\u3002","timeout":"\u8bbf\u95ee\u8d85\u65f6\uff0c\u8bf7\u518d\u8bd5\u8bd5\uff0c\u6216\u8005\u624b\u52a8\u586b\u5199\u3002","lightMode":"\u65e5\u95f4\u6a21\u5f0f","nightMode":"\u591c\u95f4\u6a21\u5f0f","editBtn":"\u7f16\u8f91","okBtn":"\u786e\u5b9a","urlExist":"\u8be5\u7f51\u5740\u5df2\u7ecf\u5b58\u5728\u4e86 --.","cancelBtn":"\u53d6\u6d88","successAlert":"\u6210\u529f","infoAlert":"\u4fe1\u606f","warningAlert":"\u8b66\u544a","errorAlert":"\u9519\u8bef","extractionCode":"\u7f51\u76d8\u63d0\u53d6\u7801\u5df2\u590d\u5236\uff0c\u70b9\u201c\u786e\u5b9a\u201d\u8fdb\u5165\u4e0b\u8f7d\u9875\u9762\u3002","wait":"\u8bf7\u7a0d\u5019","loading":"\u6b63\u5728\u5904\u7406\u8bf7\u7a0d\u540e...","userAgreement":"\u8bf7\u5148\u9605\u8bfb\u5e76\u540c\u610f\u7528\u6237\u534f\u8bae","reSend":"\u79d2\u540e\u91cd\u65b0\u53d1\u9001","weChatPay":"\u5fae\u4fe1\u652f\u4ed8","alipay":"\u652f\u4ed8\u5b9d","scanQRPay":"\u8bf7\u626b\u7801\u652f\u4ed8","payGoto":"\u652f\u4ed8\u6210\u529f\uff0c\u9875\u9762\u8df3\u8f6c\u4e2d"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../../wp-content/themes/onenav/js/app.min.js?ver=4.0510" id="appjs-js"></script>
+<script type="text/javascript" id="appjs-js-after">
+/* <![CDATA[ */
+/* <![CDATA[ */ 
+    $(document).ready(function(){if($("#search-text")[0]){$("#search-text").focus();}});
+    /* ]]]]><![CDATA[> */
+/* ]]> */
+</script>
+
+         
+<!-- 自定义代码 -->
+<!-- end 自定义代码 -->
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"835e15278c6717e4","version":"2023.10.0","r":1,"token":"267a25a42df44a61a21bb3d4c68254ed","b":1}' crossorigin="anonymous"></script>
+</body>
+</html>
