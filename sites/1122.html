@@ -975,13 +975,13 @@ Ads: @the_dise</p>
                 if(reason === "0"){
                     reason = t.find('.other-reason').val();
                     if(reason==""){
-                        showAlert(JSON.parse('{"status":4,"msg":"信息不能为空！"}'));
+                        showAlert(JSON.parse('{"status":4,"msg":""}'));
                         return false;
                     }
                 }
                 if(reason === "2"){
                     if(t.find('.redirect-url').val()==""){
-                        showAlert(JSON.parse('{"status":4,"msg":"信息不能为空！"}'));
+                        showAlert(JSON.parse('{"status":4,"msg":""}'));
                         return false;
                     }
                 }
@@ -1003,7 +1003,7 @@ Ads: @the_dise</p>
                     showAlert(response);
                 })
                 .fail(function() {  
-                    showAlert(JSON.parse('{"status":4,"msg":"网络错误 --."}'));
+                    showAlert(JSON.parse('{"status":4,"msg":""}'));
                 }); 
                 return false;
             });

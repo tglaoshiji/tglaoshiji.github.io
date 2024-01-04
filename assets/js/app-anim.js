@@ -87,7 +87,7 @@
                         $am.addClass('home-like-hide');
                     },
                     error:function(){ 
-                        showAlert(JSON.parse('{"status":4,"msg":"网络错误 --."}'));
+                        showAlert(JSON.parse('{"status":4,"msg":""}'));
                     }
                 });
             }
@@ -129,7 +129,7 @@
                 },
                 error:function(){ 
                     t.removeClass('disabled'); 
-                    ioPopupTips(4, "网络错误 --.");
+                    ioPopupTips(4, "");
                 }
             });
             
@@ -159,7 +159,7 @@
                     $am.addClass('home-like-hide');
                 },
                 error:function(){ 
-                    showAlert(JSON.parse('{"status":4,"msg":"网络错误 --."}'));
+                    showAlert(JSON.parse('{"status":4,"msg":""}'));
                 }
             });
         }
@@ -653,7 +653,7 @@
             showAlert(response);
         })
         .fail(function() { 
-            showAlert(JSON.parse('{"status":4,"msg":"网络错误 --."}'));
+            showAlert(JSON.parse('{"status":4,"msg":""}'));
         }) 
     });
     $(".add-custom-site-form").on("submit", function() {
@@ -710,7 +710,7 @@
             showAlert(JSON.parse('{"status":1,"msg":"添加成功。"}'));
         })
         .fail(function() {  
-            showAlert(JSON.parse('{"status":4,"msg":"网络错误 --."}'));
+            showAlert(JSON.parse('{"status":4,"msg":""}'));
             return;
         })
     });
@@ -732,7 +732,7 @@
         })
         .fail(function() { 
             t.removeClass('disabled');
-            showAlert(JSON.parse('{"status":4,"msg":"网络错误 --."}'));
+            showAlert(JSON.parse('{"status":4,"msg":""}'));
         }) 
     });
     function ioSortable() {
@@ -764,7 +764,7 @@
                         },
                         error: function(html){
                             $('.customize-sites .site-list').sortable('enable');
-                            showAlert(JSON.parse('{"status":4,"msg":"网络错误 --."}'));
+                            showAlert(JSON.parse('{"status":4,"msg":""}'));
                         }
                     });
                 

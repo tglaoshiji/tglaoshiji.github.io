@@ -972,13 +972,13 @@ https://telegra.ph/%E7%94%B5%E6%8A%A5%E7%BE%A4%E7%BB%84%E9%A2%91%E9%81%93-%E5%A4
                 if(reason === "0"){
                     reason = t.find('.other-reason').val();
                     if(reason==""){
-                        showAlert(JSON.parse('{"status":4,"msg":"信息不能为空！"}'));
+                        showAlert(JSON.parse('{"status":4,"msg":""}'));
                         return false;
                     }
                 }
                 if(reason === "2"){
                     if(t.find('.redirect-url').val()==""){
-                        showAlert(JSON.parse('{"status":4,"msg":"信息不能为空！"}'));
+                        showAlert(JSON.parse('{"status":4,"msg":""}'));
                         return false;
                     }
                 }
@@ -1000,7 +1000,7 @@ https://telegra.ph/%E7%94%B5%E6%8A%A5%E7%BE%A4%E7%BB%84%E9%A2%91%E9%81%93-%E5%A4
                     showAlert(response);
                 })
                 .fail(function() {  
-                    showAlert(JSON.parse('{"status":4,"msg":"网络错误 --."}'));
+                    showAlert(JSON.parse('{"status":4,"msg":""}'));
                 }); 
                 return false;
             });
