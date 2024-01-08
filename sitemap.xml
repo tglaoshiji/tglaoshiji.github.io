@@ -7,7 +7,7 @@
   </url><url>
     <loc>https://tglaoshiji.github.io/</loc>
   </url>
-  {% for post in site.posts %}
+  {% for post in site.sites %}
     <url>
       <loc>{{ site.url }}{{ post.url }}</loc>
       {% if post.lastmod == null %}
