@@ -6,6 +6,12 @@
     <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-  </url>
+	</url><url>
+   <loc>https://tglaoshiji.github.io/sites/</loc>
+    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+  </url><url>
+   <loc>https://tglaoshiji.github.io/</loc>
+    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+	</url>
 {% endfor %}
 </urlset>
