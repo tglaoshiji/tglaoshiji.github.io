@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
-
-
+Sitemap: https://tglaoshiji.github.io/sitemap.xml
+Sitemap: https://tglaoshiji.github.io/clashnodev2raynode/sitemap.xml
+Sitemap: https://tglaoshiji.github.io/clashnodev2raynode/feed.xml
