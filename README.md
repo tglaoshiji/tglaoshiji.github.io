@@ -12,15 +12,6 @@
 
 ## 科学上网翻墙高速机场推荐：
 
-###  高速机场推荐0
-
-[【EFCloud】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
-不限设备数
-
-解锁流媒体、chatGPT
-
-注册地址：[【EFCloud官网（点击注册）】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
-
 ### 高速机场推荐1
 
 [【火烧云】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
@@ -32,12 +23,6 @@
 注册地址：[【火烧云官网（点击注册）】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
 
 ### 高速机场推荐2
-
-[【FCCloud】](https://invite.fastconnect.cc/#/register?code=9BV1HHRM)
-
-FCCloud全球节点，解锁流媒体GPT，平民价格
-
-注册地址：[【FCCloud（点击注册）】](https://invite.fastconnect.cc/#/register?code=9BV1HHRM)
 
 
 ### 高速机场推荐3
@@ -69,7 +54,7 @@ FCCloud全球节点，解锁流媒体GPT，平民价格
 
 解锁流媒体、chatGPT
 
-注册地址：[【极速云官网（点击注册）】](https://www.xn--mes358acgm99l.net/#/register?code=uDjEZfAr)
+注册地址：[【极速云官网（点击注册）】](https://w1.lypyf.com/#/register?code=6fZu9IIm)
 
 
 
