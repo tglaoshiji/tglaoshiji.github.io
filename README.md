@@ -46,7 +46,7 @@
 
 ### 高速机场推荐3
 
-[【极速云】](https://www.xn--mes358acgm99l.net/#/register?code=uDjEZfAr)
+[【极速云】](https://w1.lypyf.com/#/register?code=6fZu9IIm)
 🟢全中转高速节点
 🟢流媒体GPT解锁
 🟢解锁冷门国家
