@@ -26,7 +26,7 @@ FCCloud全球节点，解锁流媒体GPT，平民价格
 
 ### 高速机场推荐3
 
-[【极速云】](https://www.xn--mes358acgm99l.net/#/register?code=uDjEZfAr)
+[【极速云】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 🟢全中转高速节点
 🟢流媒体GPT解锁
 🟢解锁冷门国家
@@ -34,7 +34,7 @@ FCCloud全球节点，解锁流媒体GPT，平民价格
 
 解锁流媒体、chatGPT
 
-注册地址：[【极速云官网（点击注册）】](https://www.xn--mes358acgm99l.net/#/register?code=uDjEZfAr)
+注册地址：[【极速云官网（点击注册）】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 ### 高速机场推荐4 
 
