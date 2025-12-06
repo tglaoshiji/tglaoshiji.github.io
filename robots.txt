@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-
+sitemap: https://tglaoshiji.github.io/aa/
+sitemap: https://tglaoshiji.github.io/nodeshare/
