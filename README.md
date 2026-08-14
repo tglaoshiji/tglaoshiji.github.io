@@ -10,7 +10,7 @@
 ### 高速机场推荐3
 
 [【极速云】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
-🟢全中转高速节点
+
 🟢流媒体GPT解锁
 🟢解锁冷门国家
 
